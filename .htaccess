@@ -1,0 +1,5 @@
+Order deny,allow
+Deny from all
+Allow from ::1 127.0.0.0/8
+
+ErrorDocument 403 /error/HTTP_XAMPP_FORBIDDEN.html.var

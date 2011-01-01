@@ -1,0 +1,1 @@
+<?phpdefine('ROOT_DEFAULT', 'C:\\Documents\\xampp\\htdocs');define('DS', DIRECTORY_SEPARATOR);define('CS_PATH', '..\scripts\phpcs.bat');
